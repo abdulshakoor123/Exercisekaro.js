@@ -1,0 +1,2 @@
+# Exercisekaro.js
+all exercise
